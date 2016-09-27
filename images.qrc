@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/pause.png</file>
+        <file>images/pause_clicked.png</file>
+        <file>images/pause_hover.png</file>
+        <file>images/play.png</file>
+        <file>images/play_clicked.png</file>
+        <file>images/play_hover.png</file>
+        <file>images/next.png</file>
+        <file>images/next_clicked.png</file>
+        <file>images/next_hover.png</file>
+        <file>images/pre.png</file>
+        <file>images/pre_clicked.png</file>
+        <file>images/pre_hover.png</file>
+        <file>images/order.png</file>
+        <file>images/order_hover.png</file>
+        <file>images/shuffle.png</file>
+        <file>images/shuffle_hover.png</file>
+        <file>images/singlerepeat.png</file>
+        <file>images/singlerepeat_hover.png</file>
+        <file>images/volumn.png</file>
+        <file>images/volumn_hover.png</file>
+        <file>images/close.png</file>
+        <file>images/close_hover.png</file>
+        <file>images/min.png</file>
+        <file>images/min_hover.png</file>
+        <file>images/up.png</file>
+        <file>images/up_hover.png</file>
+        <file>images/down.png</file>
+        <file>images/down_hover.png</file>
+        <file>images/icon.png</file>
+        <file>images/stop.png</file>
+        <file>images/stop_hover.png</file>
+    </qresource>
+</RCC>
